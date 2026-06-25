@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/love123-code/LeetCode_Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0821-shortest-distance-to-a-character](https://github.com/love123-code/LeetCode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/love123-code/LeetCode_Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1331-rank-transform-of-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
