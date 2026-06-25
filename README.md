@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/love123-code/LeetCode_Solutions/tree/master/1436-destination-city) |
 | [1710-maximum-units-on-a-truck](https://github.com/love123-code/LeetCode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1816-truncate-sentence](https://github.com/love123-code/LeetCode_Solutions/tree/master/1816-truncate-sentence) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/love123-code/LeetCode_Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/love123-code/LeetCode_Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/love123-code/LeetCode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/love123-code/LeetCode_Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Sorting
 |  |
 | ------- |
