@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/love123-code/LeetCode_Solutions/tree/master/0709-to-lower-case) |
 | [0821-shortest-distance-to-a-character](https://github.com/love123-code/LeetCode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1436-destination-city](https://github.com/love123-code/LeetCode_Solutions/tree/master/1436-destination-city) |
+| [1816-truncate-sentence](https://github.com/love123-code/LeetCode_Solutions/tree/master/1816-truncate-sentence) |
 ## Array
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/love123-code/LeetCode_Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1436-destination-city](https://github.com/love123-code/LeetCode_Solutions/tree/master/1436-destination-city) |
 | [1710-maximum-units-on-a-truck](https://github.com/love123-code/LeetCode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1816-truncate-sentence](https://github.com/love123-code/LeetCode_Solutions/tree/master/1816-truncate-sentence) |
 ## Hash Table
 |  |
 | ------- |
