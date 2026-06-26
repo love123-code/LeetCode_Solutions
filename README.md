@@ -55,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/love123-code/LeetCode_Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Math
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/love123-code/LeetCode_Solutions/tree/master/2427-number-of-common-factors) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/love123-code/LeetCode_Solutions/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/love123-code/LeetCode_Solutions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
