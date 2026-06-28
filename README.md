@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/love123-code/LeetCode_Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/love123-code/LeetCode_Solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3360-stone-removal-game](https://github.com/love123-code/LeetCode_Solutions/tree/master/3360-stone-removal-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3360-stone-removal-game](https://github.com/love123-code/LeetCode_Solutions/tree/master/3360-stone-removal-game) |
 | [3842-toggle-light-bulbs](https://github.com/love123-code/LeetCode_Solutions/tree/master/3842-toggle-light-bulbs) |
 ## Linked List
 |  |
