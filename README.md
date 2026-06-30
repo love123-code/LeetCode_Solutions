@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/love123-code/LeetCode_Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0705-design-hashset](https://github.com/love123-code/LeetCode_Solutions/tree/master/0705-design-hashset) |
 | [0821-shortest-distance-to-a-character](https://github.com/love123-code/LeetCode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/love123-code/LeetCode_Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1331-rank-transform-of-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/love123-code/LeetCode_Solutions/tree/master/0705-design-hashset) |
 | [1331-rank-transform-of-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1436-destination-city](https://github.com/love123-code/LeetCode_Solutions/tree/master/1436-destination-city) |
 | [3842-toggle-light-bulbs](https://github.com/love123-code/LeetCode_Solutions/tree/master/3842-toggle-light-bulbs) |
@@ -91,4 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/love123-code/LeetCode_Solutions/tree/master/0147-insertion-sort-list) |
+| [0705-design-hashset](https://github.com/love123-code/LeetCode_Solutions/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/love123-code/LeetCode_Solutions/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/love123-code/LeetCode_Solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
