@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/love123-code/LeetCode_Solutions/tree/master/0705-design-hashset) |
 | [0821-shortest-distance-to-a-character](https://github.com/love123-code/LeetCode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/love123-code/LeetCode_Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1122-relative-sort-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/love123-code/LeetCode_Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/love123-code/LeetCode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0705-design-hashset](https://github.com/love123-code/LeetCode_Solutions/tree/master/0705-design-hashset) |
+| [1122-relative-sort-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/love123-code/LeetCode_Solutions/tree/master/1436-destination-city) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/love123-code/LeetCode_Solutions/tree/master/0147-insertion-sort-list) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/love123-code/LeetCode_Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1122-relative-sort-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/love123-code/LeetCode_Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1710-maximum-units-on-a-truck](https://github.com/love123-code/LeetCode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
