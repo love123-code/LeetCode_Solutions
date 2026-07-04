@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/love123-code/LeetCode_Solutions/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/love123-code/LeetCode_Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2032-two-out-of-three](https://github.com/love123-code/LeetCode_Solutions/tree/master/2032-two-out-of-three) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2363-merge-similar-items](https://github.com/love123-code/LeetCode_Solutions/tree/master/2363-merge-similar-items) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/love123-code/LeetCode_Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2540-minimum-common-value](https://github.com/love123-code/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/love123-code/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/love123-code/LeetCode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/love123-code/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2540-minimum-common-value](https://github.com/love123-code/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
