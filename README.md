@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/love123-code/LeetCode_Solutions/tree/master/2363-merge-similar-items) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/love123-code/LeetCode_Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2540-minimum-common-value](https://github.com/love123-code/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
+| [2765-longest-alternating-subarray](https://github.com/love123-code/LeetCode_Solutions/tree/master/2765-longest-alternating-subarray) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/love123-code/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3842-toggle-light-bulbs](https://github.com/love123-code/LeetCode_Solutions/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/love123-code/LeetCode_Solutions/tree/master/2427-number-of-common-factors) |
+| [2765-longest-alternating-subarray](https://github.com/love123-code/LeetCode_Solutions/tree/master/2765-longest-alternating-subarray) |
 ## Number Theory
 |  |
 | ------- |
