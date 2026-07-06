@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/love123-code/LeetCode_Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2103-rings-and-rods](https://github.com/love123-code/LeetCode_Solutions/tree/master/2103-rings-and-rods) |
 | [2129-capitalize-the-title](https://github.com/love123-code/LeetCode_Solutions/tree/master/2129-capitalize-the-title) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/love123-code/LeetCode_Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/love123-code/LeetCode_Solutions/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3136-valid-word](https://github.com/love123-code/LeetCode_Solutions/tree/master/3136-valid-word) |
 | [3894-traffic-signal-color](https://github.com/love123-code/LeetCode_Solutions/tree/master/3894-traffic-signal-color) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2032-two-out-of-three](https://github.com/love123-code/LeetCode_Solutions/tree/master/2032-two-out-of-three) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/love123-code/LeetCode_Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2363-merge-similar-items](https://github.com/love123-code/LeetCode_Solutions/tree/master/2363-merge-similar-items) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/love123-code/LeetCode_Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2540-minimum-common-value](https://github.com/love123-code/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
