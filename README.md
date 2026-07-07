@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/love123-code/LeetCode_Solutions/tree/master/1436-destination-city) |
 | [1539-kth-missing-positive-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/love123-code/LeetCode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/love123-code/LeetCode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1816-truncate-sentence](https://github.com/love123-code/LeetCode_Solutions/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/love123-code/LeetCode_Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/love123-code/LeetCode_Solutions/tree/master/1436-destination-city) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/love123-code/LeetCode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2032-two-out-of-three](https://github.com/love123-code/LeetCode_Solutions/tree/master/2032-two-out-of-three) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/love123-code/LeetCode_Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2103-rings-and-rods](https://github.com/love123-code/LeetCode_Solutions/tree/master/2103-rings-and-rods) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/love123-code/LeetCode_Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/love123-code/LeetCode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/love123-code/LeetCode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2363-merge-similar-items](https://github.com/love123-code/LeetCode_Solutions/tree/master/2363-merge-similar-items) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/love123-code/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
