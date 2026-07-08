@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/love123-code/LeetCode_Solutions/tree/master/2129-capitalize-the-title) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/love123-code/LeetCode_Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2451-odd-string-difference](https://github.com/love123-code/LeetCode_Solutions/tree/master/2451-odd-string-difference) |
+| [2490-circular-sentence](https://github.com/love123-code/LeetCode_Solutions/tree/master/2490-circular-sentence) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/love123-code/LeetCode_Solutions/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3136-valid-word](https://github.com/love123-code/LeetCode_Solutions/tree/master/3136-valid-word) |
 | [3894-traffic-signal-color](https://github.com/love123-code/LeetCode_Solutions/tree/master/3894-traffic-signal-color) |
