@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3360-stone-removal-game](https://github.com/love123-code/LeetCode_Solutions/tree/master/3360-stone-removal-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/love123-code/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/love123-code/LeetCode_Solutions/tree/master/3894-traffic-signal-color) |
 ## Enumeration
 |  |
