@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/love123-code/LeetCode_Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2451-odd-string-difference](https://github.com/love123-code/LeetCode_Solutions/tree/master/2451-odd-string-difference) |
 | [2490-circular-sentence](https://github.com/love123-code/LeetCode_Solutions/tree/master/2490-circular-sentence) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/love123-code/LeetCode_Solutions/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3136-valid-word](https://github.com/love123-code/LeetCode_Solutions/tree/master/3136-valid-word) |
 | [3894-traffic-signal-color](https://github.com/love123-code/LeetCode_Solutions/tree/master/3894-traffic-signal-color) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/love123-code/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
 | [2765-longest-alternating-subarray](https://github.com/love123-code/LeetCode_Solutions/tree/master/2765-longest-alternating-subarray) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/love123-code/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3842-toggle-light-bulbs](https://github.com/love123-code/LeetCode_Solutions/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/love123-code/LeetCode_Solutions/tree/master/0705-design-hashset) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -227,9 +230,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/love123-code/LeetCode_Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1915-number-of-wonderful-substrings](https://github.com/love123-code/LeetCode_Solutions/tree/master/1915-number-of-wonderful-substrings) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/love123-code/LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+## Trie
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
