@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/love123-code/LeetCode_Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/love123-code/LeetCode_Solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/love123-code/LeetCode_Solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2235-add-two-integers](https://github.com/love123-code/LeetCode_Solutions/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/love123-code/LeetCode_Solutions/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/love123-code/LeetCode_Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/love123-code/LeetCode_Solutions/tree/master/2469-convert-the-temperature) |
