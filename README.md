@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/love123-code/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0392-is-subsequence](https://github.com/love123-code/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/love123-code/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/love123-code/LeetCode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/love123-code/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0147-insertion-sort-list](https://github.com/love123-code/LeetCode_Solutions/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/love123-code/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/love123-code/LeetCode_Solutions/tree/master/0705-design-hashset) |
