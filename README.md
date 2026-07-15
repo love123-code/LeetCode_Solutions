@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/love123-code/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/love123-code/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/love123-code/LeetCode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0516-longest-palindromic-subsequence](https://github.com/love123-code/LeetCode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0696-count-binary-substrings](https://github.com/love123-code/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/love123-code/LeetCode_Solutions/tree/master/0709-to-lower-case) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/love123-code/LeetCode_Solutions/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/love123-code/LeetCode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 ## Geometry
 |  |
 | ------- |
