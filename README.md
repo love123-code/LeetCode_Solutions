@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/love123-code/LeetCode_Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/love123-code/LeetCode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/love123-code/LeetCode_Solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/love123-code/LeetCode_Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/love123-code/LeetCode_Solutions/tree/master/2235-add-two-integers) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/love123-code/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/love123-code/LeetCode_Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/love123-code/LeetCode_Solutions/tree/master/0706-design-hashmap) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/love123-code/LeetCode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/love123-code/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
