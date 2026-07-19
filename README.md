@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/love123-code/LeetCode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/love123-code/LeetCode_Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0551-student-attendance-record-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/0551-student-attendance-record-i) |
 | [0696-count-binary-substrings](https://github.com/love123-code/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/love123-code/LeetCode_Solutions/tree/master/0709-to-lower-case) |
 | [0821-shortest-distance-to-a-character](https://github.com/love123-code/LeetCode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
