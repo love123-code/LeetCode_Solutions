@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/love123-code/LeetCode_Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1816-truncate-sentence](https://github.com/love123-code/LeetCode_Solutions/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/love123-code/LeetCode_Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1856-maximum-subarray-min-product](https://github.com/love123-code/LeetCode_Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [1929-concatenation-of-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2032-two-out-of-three](https://github.com/love123-code/LeetCode_Solutions/tree/master/2032-two-out-of-three) |
 | [2057-smallest-index-with-equal-value](https://github.com/love123-code/LeetCode_Solutions/tree/master/2057-smallest-index-with-equal-value) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1856-maximum-subarray-min-product](https://github.com/love123-code/LeetCode_Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [1915-number-of-wonderful-substrings](https://github.com/love123-code/LeetCode_Solutions/tree/master/1915-number-of-wonderful-substrings) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/love123-code/LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Trie
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/love123-code/LeetCode_Solutions/tree/master/0897-increasing-order-search-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/love123-code/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/love123-code/LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1856-maximum-subarray-min-product](https://github.com/love123-code/LeetCode_Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [2000-reverse-prefix-of-word](https://github.com/love123-code/LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2211-count-collisions-on-a-road](https://github.com/love123-code/LeetCode_Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/love123-code/LeetCode_Solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [1856-maximum-subarray-min-product](https://github.com/love123-code/LeetCode_Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/love123-code/LeetCode_Solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3523-make-array-non-decreasing](https://github.com/love123-code/LeetCode_Solutions/tree/master/3523-make-array-non-decreasing) |
 ## Quickselect
