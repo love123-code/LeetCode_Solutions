@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/love123-code/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0147-insertion-sort-list](https://github.com/love123-code/LeetCode_Solutions/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/love123-code/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/love123-code/LeetCode_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0705-design-hashset](https://github.com/love123-code/LeetCode_Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/love123-code/LeetCode_Solutions/tree/master/0706-design-hashmap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/love123-code/LeetCode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/love123-code/LeetCode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/love123-code/LeetCode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/love123-code/LeetCode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/love123-code/LeetCode_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0617-merge-two-binary-trees](https://github.com/love123-code/LeetCode_Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Monotonic Stack
 |  |
@@ -354,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/love123-code/LeetCode_Solutions/tree/master/0617-merge-two-binary-trees) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/love123-code/LeetCode_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
