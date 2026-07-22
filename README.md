@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0897-increasing-order-search-tree](https://github.com/love123-code/LeetCode_Solutions/tree/master/0897-increasing-order-search-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/love123-code/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/love123-code/LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/love123-code/LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/love123-code/LeetCode_Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/love123-code/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/love123-code/LeetCode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0897-increasing-order-search-tree](https://github.com/love123-code/LeetCode_Solutions/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/love123-code/LeetCode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/love123-code/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/love123-code/LeetCode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0897-increasing-order-search-tree](https://github.com/love123-code/LeetCode_Solutions/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/love123-code/LeetCode_Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/love123-code/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/love123-code/LeetCode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0897-increasing-order-search-tree](https://github.com/love123-code/LeetCode_Solutions/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/love123-code/LeetCode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/love123-code/LeetCode_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0617-merge-two-binary-trees](https://github.com/love123-code/LeetCode_Solutions/tree/master/0617-merge-two-binary-trees) |
+| [0897-increasing-order-search-tree](https://github.com/love123-code/LeetCode_Solutions/tree/master/0897-increasing-order-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
