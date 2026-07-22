@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/love123-code/LeetCode_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/love123-code/LeetCode_Solutions/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/love123-code/LeetCode_Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2211-count-collisions-on-a-road](https://github.com/love123-code/LeetCode_Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/love123-code/LeetCode_Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2451-odd-string-difference](https://github.com/love123-code/LeetCode_Solutions/tree/master/2451-odd-string-difference) |
 | [2490-circular-sentence](https://github.com/love123-code/LeetCode_Solutions/tree/master/2490-circular-sentence) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/love123-code/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/love123-code/LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
+| [2211-count-collisions-on-a-road](https://github.com/love123-code/LeetCode_Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2582-pass-the-pillow](https://github.com/love123-code/LeetCode_Solutions/tree/master/2582-pass-the-pillow) |
 | [3360-stone-removal-game](https://github.com/love123-code/LeetCode_Solutions/tree/master/3360-stone-removal-game) |
 | [3842-toggle-light-bulbs](https://github.com/love123-code/LeetCode_Solutions/tree/master/3842-toggle-light-bulbs) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/love123-code/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/love123-code/LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/love123-code/LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2211-count-collisions-on-a-road](https://github.com/love123-code/LeetCode_Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [3523-make-array-non-decreasing](https://github.com/love123-code/LeetCode_Solutions/tree/master/3523-make-array-non-decreasing) |
 ## Queue
 |  |
