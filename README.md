@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/love123-code/LeetCode_Solutions/tree/master/1436-destination-city) |
 | [1816-truncate-sentence](https://github.com/love123-code/LeetCode_Solutions/tree/master/1816-truncate-sentence) |
 | [1915-number-of-wonderful-substrings](https://github.com/love123-code/LeetCode_Solutions/tree/master/1915-number-of-wonderful-substrings) |
+| [2000-reverse-prefix-of-word](https://github.com/love123-code/LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/love123-code/LeetCode_Solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/love123-code/LeetCode_Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2103-rings-and-rods](https://github.com/love123-code/LeetCode_Solutions/tree/master/2103-rings-and-rods) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/love123-code/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/love123-code/LeetCode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/love123-code/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
+| [2000-reverse-prefix-of-word](https://github.com/love123-code/LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/love123-code/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2540-minimum-common-value](https://github.com/love123-code/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/love123-code/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/love123-code/LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2000-reverse-prefix-of-word](https://github.com/love123-code/LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3523-make-array-non-decreasing](https://github.com/love123-code/LeetCode_Solutions/tree/master/3523-make-array-non-decreasing) |
 ## Queue
 |  |
