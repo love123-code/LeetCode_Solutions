@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/love123-code/LeetCode_Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2211-count-collisions-on-a-road](https://github.com/love123-code/LeetCode_Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/love123-code/LeetCode_Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2451-odd-string-difference](https://github.com/love123-code/LeetCode_Solutions/tree/master/2451-odd-string-difference) |
 | [2490-circular-sentence](https://github.com/love123-code/LeetCode_Solutions/tree/master/2490-circular-sentence) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/love123-code/LeetCode_Solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/love123-code/LeetCode_Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/love123-code/LeetCode_Solutions/tree/master/2235-add-two-integers) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2427-number-of-common-factors](https://github.com/love123-code/LeetCode_Solutions/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/love123-code/LeetCode_Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/love123-code/LeetCode_Solutions/tree/master/2469-convert-the-temperature) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/love123-code/LeetCode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Counting
 |  |
 | ------- |
