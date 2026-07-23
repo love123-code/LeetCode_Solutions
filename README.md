@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2765-longest-alternating-subarray](https://github.com/love123-code/LeetCode_Solutions/tree/master/2765-longest-alternating-subarray) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/love123-code/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/love123-code/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3523-make-array-non-decreasing](https://github.com/love123-code/LeetCode_Solutions/tree/master/3523-make-array-non-decreasing) |
 | [3842-toggle-light-bulbs](https://github.com/love123-code/LeetCode_Solutions/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2582-pass-the-pillow](https://github.com/love123-code/LeetCode_Solutions/tree/master/2582-pass-the-pillow) |
 | [3360-stone-removal-game](https://github.com/love123-code/LeetCode_Solutions/tree/master/3360-stone-removal-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/love123-code/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/love123-code/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/love123-code/LeetCode_Solutions/tree/master/3894-traffic-signal-color) |
@@ -204,10 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2427-number-of-common-factors](https://github.com/love123-code/LeetCode_Solutions/tree/master/2427-number-of-common-factors) |
 | [2765-longest-alternating-subarray](https://github.com/love123-code/LeetCode_Solutions/tree/master/2765-longest-alternating-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/love123-code/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/love123-code/LeetCode_Solutions/tree/master/2427-number-of-common-factors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/love123-code/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/love123-code/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/love123-code/LeetCode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/love123-code/LeetCode_Solutions/tree/master/1763-longest-nice-substring) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/love123-code/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting
 |  |
 | ------- |
