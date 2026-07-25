@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/love123-code/LeetCode_Solutions/tree/master/1763-longest-nice-substring) |
 | [1816-truncate-sentence](https://github.com/love123-code/LeetCode_Solutions/tree/master/1816-truncate-sentence) |
 | [1915-number-of-wonderful-substrings](https://github.com/love123-code/LeetCode_Solutions/tree/master/1915-number-of-wonderful-substrings) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/love123-code/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/love123-code/LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/love123-code/LeetCode_Solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/love123-code/LeetCode_Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/love123-code/LeetCode_Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1856-maximum-subarray-min-product](https://github.com/love123-code/LeetCode_Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [1929-concatenation-of-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/love123-code/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-two-out-of-three](https://github.com/love123-code/LeetCode_Solutions/tree/master/2032-two-out-of-three) |
 | [2057-smallest-index-with-equal-value](https://github.com/love123-code/LeetCode_Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/love123-code/LeetCode_Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
