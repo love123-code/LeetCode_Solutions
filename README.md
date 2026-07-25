@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/love123-code/LeetCode_Solutions/tree/master/2315-count-asterisks) |
 | [2451-odd-string-difference](https://github.com/love123-code/LeetCode_Solutions/tree/master/2451-odd-string-difference) |
 | [2490-circular-sentence](https://github.com/love123-code/LeetCode_Solutions/tree/master/2490-circular-sentence) |
+| [2678-number-of-senior-citizens](https://github.com/love123-code/LeetCode_Solutions/tree/master/2678-number-of-senior-citizens) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/love123-code/LeetCode_Solutions/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3136-valid-word](https://github.com/love123-code/LeetCode_Solutions/tree/master/3136-valid-word) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2451-odd-string-difference](https://github.com/love123-code/LeetCode_Solutions/tree/master/2451-odd-string-difference) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/love123-code/LeetCode_Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2540-minimum-common-value](https://github.com/love123-code/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
+| [2678-number-of-senior-citizens](https://github.com/love123-code/LeetCode_Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/love123-code/LeetCode_Solutions/tree/master/2706-buy-two-chocolates) |
 | [2765-longest-alternating-subarray](https://github.com/love123-code/LeetCode_Solutions/tree/master/2765-longest-alternating-subarray) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/love123-code/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
