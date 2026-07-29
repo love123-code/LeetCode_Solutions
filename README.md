@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/love123-code/LeetCode_Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0551-student-attendance-record-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/0551-student-attendance-record-i) |
+| [0686-repeated-string-match](https://github.com/love123-code/LeetCode_Solutions/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/love123-code/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/love123-code/LeetCode_Solutions/tree/master/0709-to-lower-case) |
 | [0821-shortest-distance-to-a-character](https://github.com/love123-code/LeetCode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/love123-code/LeetCode_Solutions/tree/master/0686-repeated-string-match) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/love123-code/LeetCode_Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
