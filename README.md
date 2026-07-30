@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/love123-code/LeetCode_Solutions/tree/master/0706-design-hashmap) |
 | [0821-shortest-distance-to-a-character](https://github.com/love123-code/LeetCode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/love123-code/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
+| [0883-projection-area-of-3d-shapes](https://github.com/love123-code/LeetCode_Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/love123-code/LeetCode_Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1046-last-stone-weight](https://github.com/love123-code/LeetCode_Solutions/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/love123-code/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
+| [0883-projection-area-of-3d-shapes](https://github.com/love123-code/LeetCode_Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/love123-code/LeetCode_Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/love123-code/LeetCode_Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/love123-code/LeetCode_Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/love123-code/LeetCode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/love123-code/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/love123-code/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0883-projection-area-of-3d-shapes](https://github.com/love123-code/LeetCode_Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/love123-code/LeetCode_Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/love123-code/LeetCode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/love123-code/LeetCode_Solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/love123-code/LeetCode_Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/love123-code/LeetCode_Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 ## String Matching
 |  |
