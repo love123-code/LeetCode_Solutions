@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/love123-code/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0204-count-primes](https://github.com/love123-code/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0486-predict-the-winner](https://github.com/love123-code/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/love123-code/LeetCode_Solutions/tree/master/0506-relative-ranks) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/love123-code/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/love123-code/LeetCode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/love123-code/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/love123-code/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -230,12 +232,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/love123-code/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/love123-code/LeetCode_Solutions/tree/master/2427-number-of-common-factors) |
 | [2765-longest-alternating-subarray](https://github.com/love123-code/LeetCode_Solutions/tree/master/2765-longest-alternating-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/love123-code/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/love123-code/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/love123-code/LeetCode_Solutions/tree/master/2427-number-of-common-factors) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/love123-code/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/love123-code/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -435,4 +439,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/love123-code/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/love123-code/LeetCode_Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/love123-code/LeetCode_Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/love123-code/LeetCode_Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
