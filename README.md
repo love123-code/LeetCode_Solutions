@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/love123-code/LeetCode_Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2239-find-closest-number-to-zero](https://github.com/love123-code/LeetCode_Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/love123-code/LeetCode_Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/love123-code/LeetCode_Solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/love123-code/LeetCode_Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
