@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/love123-code/LeetCode_Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2315-count-asterisks](https://github.com/love123-code/LeetCode_Solutions/tree/master/2315-count-asterisks) |
+| [2399-check-distances-between-same-letters](https://github.com/love123-code/LeetCode_Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2451-odd-string-difference](https://github.com/love123-code/LeetCode_Solutions/tree/master/2451-odd-string-difference) |
 | [2490-circular-sentence](https://github.com/love123-code/LeetCode_Solutions/tree/master/2490-circular-sentence) |
 | [2678-number-of-senior-citizens](https://github.com/love123-code/LeetCode_Solutions/tree/master/2678-number-of-senior-citizens) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/love123-code/LeetCode_Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2363-merge-similar-items](https://github.com/love123-code/LeetCode_Solutions/tree/master/2363-merge-similar-items) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/love123-code/LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2399-check-distances-between-same-letters](https://github.com/love123-code/LeetCode_Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2451-odd-string-difference](https://github.com/love123-code/LeetCode_Solutions/tree/master/2451-odd-string-difference) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/love123-code/LeetCode_Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2540-minimum-common-value](https://github.com/love123-code/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/love123-code/LeetCode_Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2103-rings-and-rods](https://github.com/love123-code/LeetCode_Solutions/tree/master/2103-rings-and-rods) |
 | [2363-merge-similar-items](https://github.com/love123-code/LeetCode_Solutions/tree/master/2363-merge-similar-items) |
+| [2399-check-distances-between-same-letters](https://github.com/love123-code/LeetCode_Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2451-odd-string-difference](https://github.com/love123-code/LeetCode_Solutions/tree/master/2451-odd-string-difference) |
 | [2540-minimum-common-value](https://github.com/love123-code/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/love123-code/LeetCode_Solutions/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
