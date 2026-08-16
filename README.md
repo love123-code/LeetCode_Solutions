@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/love123-code/LeetCode_Solutions/tree/master/2706-buy-two-chocolates) |
 | [2765-longest-alternating-subarray](https://github.com/love123-code/LeetCode_Solutions/tree/master/2765-longest-alternating-subarray) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/love123-code/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3024-type-of-triangle](https://github.com/love123-code/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/love123-code/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3523-make-array-non-decreasing](https://github.com/love123-code/LeetCode_Solutions/tree/master/3523-make-array-non-decreasing) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/love123-code/LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2706-buy-two-chocolates](https://github.com/love123-code/LeetCode_Solutions/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/love123-code/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3024-type-of-triangle](https://github.com/love123-code/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 | [3842-toggle-light-bulbs](https://github.com/love123-code/LeetCode_Solutions/tree/master/3842-toggle-light-bulbs) |
 ## Binary Search
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/love123-code/LeetCode_Solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2582-pass-the-pillow](https://github.com/love123-code/LeetCode_Solutions/tree/master/2582-pass-the-pillow) |
+| [3024-type-of-triangle](https://github.com/love123-code/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 | [3360-stone-removal-game](https://github.com/love123-code/LeetCode_Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/love123-code/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/love123-code/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -469,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/love123-code/LeetCode_Solutions/tree/master/0204-count-primes) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/love123-code/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
