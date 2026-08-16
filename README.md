@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/love123-code/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/love123-code/LeetCode_Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3206-alternating-groups-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/3206-alternating-groups-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/love123-code/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3523-make-array-non-decreasing](https://github.com/love123-code/LeetCode_Solutions/tree/master/3523-make-array-non-decreasing) |
 | [3842-toggle-light-bulbs](https://github.com/love123-code/LeetCode_Solutions/tree/master/3842-toggle-light-bulbs) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/love123-code/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1763-longest-nice-substring](https://github.com/love123-code/LeetCode_Solutions/tree/master/1763-longest-nice-substring) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3206-alternating-groups-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/3206-alternating-groups-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/love123-code/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting
 |  |
