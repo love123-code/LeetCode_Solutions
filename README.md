@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/love123-code/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0204-count-primes](https://github.com/love123-code/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/love123-code/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/love123-code/LeetCode_Solutions/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/love123-code/LeetCode_Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/love123-code/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0287-find-the-duplicate-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/love123-code/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/love123-code/LeetCode_Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0658-find-k-closest-elements](https://github.com/love123-code/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/love123-code/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/love123-code/LeetCode_Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/love123-code/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/love123-code/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
 | [1763-longest-nice-substring](https://github.com/love123-code/LeetCode_Solutions/tree/master/1763-longest-nice-substring) |
 | [1915-number-of-wonderful-substrings](https://github.com/love123-code/LeetCode_Solutions/tree/master/1915-number-of-wonderful-substrings) |
@@ -479,4 +483,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/love123-code/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
