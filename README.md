@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-alternating-groups-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/3206-alternating-groups-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/love123-code/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3523-make-array-non-decreasing](https://github.com/love123-code/LeetCode_Solutions/tree/master/3523-make-array-non-decreasing) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/love123-code/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/love123-code/LeetCode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3842-toggle-light-bulbs](https://github.com/love123-code/LeetCode_Solutions/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/love123-code/LeetCode_Solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2451-odd-string-difference](https://github.com/love123-code/LeetCode_Solutions/tree/master/2451-odd-string-difference) |
 | [2540-minimum-common-value](https://github.com/love123-code/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/love123-code/LeetCode_Solutions/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/love123-code/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/love123-code/LeetCode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3842-toggle-light-bulbs](https://github.com/love123-code/LeetCode_Solutions/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/love123-code/LeetCode_Solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/love123-code/LeetCode_Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/love123-code/LeetCode_Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/love123-code/LeetCode_Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/love123-code/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/love123-code/LeetCode_Solutions/tree/master/1763-longest-nice-substring) |
 | [1915-number-of-wonderful-substrings](https://github.com/love123-code/LeetCode_Solutions/tree/master/1915-number-of-wonderful-substrings) |
 | [2032-two-out-of-three](https://github.com/love123-code/LeetCode_Solutions/tree/master/2032-two-out-of-three) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/love123-code/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Ordered Set
 |  |
 | ------- |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/love123-code/LeetCode_Solutions/tree/master/0617-merge-two-binary-trees) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/love123-code/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Doubly-Linked List
 |  |
 | ------- |
