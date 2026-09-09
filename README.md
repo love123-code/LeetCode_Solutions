@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/love123-code/LeetCode_Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/love123-code/LeetCode_Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/love123-code/LeetCode_Solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1436-destination-city](https://github.com/love123-code/LeetCode_Solutions/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/1539-kth-missing-positive-number) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/love123-code/LeetCode_Solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1856-maximum-subarray-min-product](https://github.com/love123-code/LeetCode_Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [1915-number-of-wonderful-substrings](https://github.com/love123-code/LeetCode_Solutions/tree/master/1915-number-of-wonderful-substrings) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/love123-code/LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
