@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/love123-code/LeetCode_Solutions/tree/master/1436-destination-city) |
 | [1763-longest-nice-substring](https://github.com/love123-code/LeetCode_Solutions/tree/master/1763-longest-nice-substring) |
 | [1816-truncate-sentence](https://github.com/love123-code/LeetCode_Solutions/tree/master/1816-truncate-sentence) |
+| [1859-sorting-the-sentence](https://github.com/love123-code/LeetCode_Solutions/tree/master/1859-sorting-the-sentence) |
 | [1915-number-of-wonderful-substrings](https://github.com/love123-code/LeetCode_Solutions/tree/master/1915-number-of-wonderful-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/love123-code/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/love123-code/LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/love123-code/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/love123-code/LeetCode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/love123-code/LeetCode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1859-sorting-the-sentence](https://github.com/love123-code/LeetCode_Solutions/tree/master/1859-sorting-the-sentence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/love123-code/LeetCode_Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/love123-code/LeetCode_Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2363-merge-similar-items](https://github.com/love123-code/LeetCode_Solutions/tree/master/2363-merge-similar-items) |
@@ -505,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/love123-code/LeetCode_Solutions/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
