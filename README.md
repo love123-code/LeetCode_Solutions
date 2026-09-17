@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/love123-code/LeetCode_Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0406-queue-reconstruction-by-height](https://github.com/love123-code/LeetCode_Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0486-predict-the-winner](https://github.com/love123-code/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/love123-code/LeetCode_Solutions/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/love123-code/LeetCode_Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/love123-code/LeetCode_Solutions/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/love123-code/LeetCode_Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0406-queue-reconstruction-by-height](https://github.com/love123-code/LeetCode_Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0506-relative-ranks](https://github.com/love123-code/LeetCode_Solutions/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/love123-code/LeetCode_Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/love123-code/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -516,4 +518,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/love123-code/LeetCode_Solutions/tree/master/1859-sorting-the-sentence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/love123-code/LeetCode_Solutions/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/love123-code/LeetCode_Solutions/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
