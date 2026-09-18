@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/love123-code/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/love123-code/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0187-repeated-dna-sequences](https://github.com/love123-code/LeetCode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/love123-code/LeetCode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/love123-code/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/love123-code/LeetCode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/love123-code/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/love123-code/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0187-repeated-dna-sequences](https://github.com/love123-code/LeetCode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/love123-code/LeetCode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/love123-code/LeetCode_Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0705-design-hashset](https://github.com/love123-code/LeetCode_Solutions/tree/master/0705-design-hashset) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/love123-code/LeetCode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0705-design-hashset](https://github.com/love123-code/LeetCode_Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/love123-code/LeetCode_Solutions/tree/master/0706-design-hashmap) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/love123-code/LeetCode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/love123-code/LeetCode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/love123-code/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1763-longest-nice-substring](https://github.com/love123-code/LeetCode_Solutions/tree/master/1763-longest-nice-substring) |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/love123-code/LeetCode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/love123-code/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
 | [1763-longest-nice-substring](https://github.com/love123-code/LeetCode_Solutions/tree/master/1763-longest-nice-substring) |
@@ -394,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/love123-code/LeetCode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Recursion
 |  |
@@ -526,4 +532,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/love123-code/LeetCode_Solutions/tree/master/0406-queue-reconstruction-by-height) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/love123-code/LeetCode_Solutions/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/love123-code/LeetCode_Solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
