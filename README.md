@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/love123-code/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/love123-code/LeetCode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/love123-code/LeetCode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0318-maximum-product-of-word-lengths](https://github.com/love123-code/LeetCode_Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0392-is-subsequence](https://github.com/love123-code/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/love123-code/LeetCode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/love123-code/LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/love123-code/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/love123-code/LeetCode_Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0324-wiggle-sort-ii](https://github.com/love123-code/LeetCode_Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/love123-code/LeetCode_Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0486-predict-the-winner](https://github.com/love123-code/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/love123-code/LeetCode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/love123-code/LeetCode_Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0832-flipping-an-image](https://github.com/love123-code/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
 | [1763-longest-nice-substring](https://github.com/love123-code/LeetCode_Solutions/tree/master/1763-longest-nice-substring) |
 | [1915-number-of-wonderful-substrings](https://github.com/love123-code/LeetCode_Solutions/tree/master/1915-number-of-wonderful-substrings) |
