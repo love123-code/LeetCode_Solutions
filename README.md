@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/love123-code/LeetCode_Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0551-student-attendance-record-i](https://github.com/love123-code/LeetCode_Solutions/tree/master/0551-student-attendance-record-i) |
+| [0567-permutation-in-string](https://github.com/love123-code/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/love123-code/LeetCode_Solutions/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/love123-code/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/love123-code/LeetCode_Solutions/tree/master/0709-to-lower-case) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/love123-code/LeetCode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/love123-code/LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/love123-code/LeetCode_Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0567-permutation-in-string](https://github.com/love123-code/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/love123-code/LeetCode_Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/love123-code/LeetCode_Solutions/tree/master/0706-design-hashmap) |
 | [1122-relative-sort-array](https://github.com/love123-code/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/love123-code/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/love123-code/LeetCode_Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0567-permutation-in-string](https://github.com/love123-code/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/love123-code/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/love123-code/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/love123-code/LeetCode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/love123-code/LeetCode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/love123-code/LeetCode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/love123-code/LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/love123-code/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/love123-code/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1763-longest-nice-substring](https://github.com/love123-code/LeetCode_Solutions/tree/master/1763-longest-nice-substring) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/love123-code/LeetCode_Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
